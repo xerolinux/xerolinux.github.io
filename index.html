@@ -150,6 +150,20 @@
 <p><strong>- Extras :</strong> This is where you can select a few more stuff I consider Extras. Like some custom tools by ArcoLinux and some themes.</p>
 <p><strong>Dynamic List</strong> can also be benefical in such a way that you can request for a certain package to be added to the list, after I have tested and made sure it&rsquo;s useful and is bug free of course, at which point I will update list with it included, then on your end you don&rsquo;t have to re-download updated ISO, saving us both the hassle, so next time you install my Distro, package(s) will be present for you to select during installation. Win-Win ;)</p>
 <p><figure>
+    <img src="https://i.imgur.com/16qyqCZ.png#center" width="100%"/> 
+</figure>
+<!-- raw HTML omitted --></p>
+<h3 id="installer-internet-connection-issue">Installer Internet Connection Issue</h3>
+<p>Some users out there have reported an issue where <strong>Calamares</strong> installer was showing a message saying it&rsquo;s wasn&rsquo;t able to establish a connection to the Internet. In that case you can still go ahead with installation, only caveat with this is, you cannot install any of the packages in the list. So go ahead with installation, do not check any of the boxes as it will not work spitting an error.</p>
+<p><figure>
+    <img src="https://i.imgur.com/30xICnR.png#center" width="100%"/> 
+</figure>
+<!-- raw HTML omitted --></p>
+<p>These are the steps, quit installer, then connect to net n hit F12 type in the command below, when Installer launches see if it still says no Internet. Or, reboot from ISO immediately quit installer n do as I said earlier.</p>
+<h4 id="command">Command</h4>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">calamares_polkit -d
+</code></pre></div><p>Not in my hands developer of installer hasn&rsquo;t fixed issue yet but he said it&rsquo;s coming. So we have to wait for that. Otherwise I have no idea why it happens or how to fix it beyond that&hellip; Will have to wait and see, till then install without selecting anything from list :(</p>					
+<p><figure>
     <img src="https://i.imgur.com/KA4dy57.png#center" width="100%"/> 
 </figure>
 <!-- raw HTML omitted --></p>
