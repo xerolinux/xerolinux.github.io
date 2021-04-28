@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://xerolinux.github.io/assets/css/main.css"/>
     <noscript><link rel="stylesheet" href="https://xerolinux.github.io/assets/css/noscript.css"/></noscript>
     <style>
-        :root{--site-background : url("https://xerolinux.github.io/images/bg.jpg")};
+        {--site-background : url("https://xerolinux.github.io/images/bg.jpg")};
     </style> 
     
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
@@ -103,7 +103,7 @@
 <p>This is just a P.O.C (Proof Of Concept), meaning it&rsquo;s an example that with perserverance and will-power, you can do it too. I have only been using Linux 8 months, I am not suited to handle the troubleshooting others can with a team of devs behind them. For that, you will need to do your own troubleshooting via Google and the right communities.</p>
 <p>If you decide to test it, don&rsquo;t do it on your production machine, do it in a VM first, then, if you like it, go for it. I created Distro in such a way, that, all it takes is booting it, meaning you can just minimize Installer <em>(Don&rsquo;t Close It)</em>, play around to get an idea of what it will look n feel once installed. If you decide you like it, proceed to installer.</p>
 <p>Anyway, watch the above video to get a better idea of how It&rsquo;s built. For more info and installation guide head on to the &ldquo;Installation&rdquo; sectioon&hellip;</p>
-<p><strong>~~~~~~~~~~~~~~~~~~~~</strong></p>
+			<p><center><strong>~~~~~~~~~~~~~~~~~~~~</strong></center></p>
 
                                 </article>
                             
@@ -140,6 +140,7 @@
 <p>I added an <em>&ldquo;Alias&rdquo;</em> that needs to be ran on first logon to fix a bug with Grub, just run <strong>&ldquo;grubfix&rdquo;</strong> command in Terminal then reboot. There are tons of other aliases, type <strong>&ldquo;alias&rdquo;</strong> in Terminal to see them all.</p>
 <p><strong>Very Importan :</strong> Make sure to read each section&rsquo;s description, and note if you end up stuck with Desktop not loading, only means you have an older nVidia GPU and you selected nVidia driver ignoring warning in the installer. Just either re-install without selecting Drivers or uninstall them using <strong>uninstall</strong> alias command.</p>
 <p>During installation you will have the option to install many packages, which will be pulled from the Internet, so you will have to have an active Internet connection otherwise nothing will be installed.</p>
+<p><center><strong>~~~~~~~~~~~~~~~~~~~~</strong></center></p>					
 <h3 id="package-list-explained">Package List Explained</h3>
 <p>The list is Dynamic so it will be constantly changing, meaning that if you install it today, and I add/change a few things installing it in the future will present you with a different list, much the same but with a few packages removed or added, I did it this way so I don&rsquo;t have to re-compile and re-upload ISO as I do not have enough bandwidth to spare, but for now I will try to explain below some of the sections below :</p>
 <p><strong>- Core :</strong> That&rsquo;e where you select your Kernel &amp; drivers. If you want latest Stock Kernel, or any other one check one you prefer. AMD/Intel/nVidia ? Select one you got. Just don&rsquo;t skip nVidia part below before going ahead to next section. Also know that you can 2 Kernels installed at the same time you will be prompther during Boot which to boot from ;)</p>
