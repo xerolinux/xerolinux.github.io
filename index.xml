@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>~ XeroLinux ~ on Home of XeroLinux Distro By @TechXero</title>
+    <link>https://xerolinux.github.io/</link>
+    <description>Recent content in ~ XeroLinux ~ on Home of XeroLinux Distro By @TechXero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://xerolinux.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Project</title>
+      <link>https://xerolinux.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xerolinux.github.io/about/</guid>
+      <description>WHAT’S THIS ? This is XeroLinux an Arch-based Distro with KDE Plasma Desktop. Now I know not everyone likes my choice of DE, but that&amp;rsquo;s what am into right now. Anyway, it was made possible by Erik Dubois and the array of information over at the ArcoLinux site(s)… Not to mention the peeps over at EndeavourOS.
+XeroLinux is based off of a project by my fellow Erik Dubois called ALCI or simply put Arch Linux Calamares Installer.</description>
+    </item>
+    
+    <item>
+      <title>Downloads</title>
+      <link>https://xerolinux.github.io/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xerolinux.github.io/download/</guid>
+      <description>How To Get It Here&amp;rsquo;s where you can grab the ISO, but just letting you know that I won&amp;rsquo;t be releasing any new versions unles absolutely necessary, and major changes have taken place that require me to. I am Data-Capped so cannot afford the bandwidth.
+ISO was built with that in mind. Everything is pulled online nothing resides on ISO except Plasma DE and ArchLinux everything else is NetInstall&amp;hellip; That said grab your ISO below, hosted on Mega.</description>
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>https://xerolinux.github.io/howto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xerolinux.github.io/howto/</guid>
+      <description>First Steps I added an &amp;ldquo;Alias&amp;rdquo; that needs to be ran on first logon to fix a bug with Grub, just run &amp;ldquo;grubfix&amp;rdquo; command in Terminal then reboot. There are tons of other aliases, type &amp;ldquo;alias&amp;rdquo; in Terminal to see them all.
+Very Importan : Make sure to read each section&amp;rsquo;s description, and note if you end up stuck with Desktop not loading, only means you have an older nVidia GPU and you selected nVidia driver ignoring warning in the installer.</description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>https://xerolinux.github.io/social/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xerolinux.github.io/social/</guid>
+      <description>Where Can You Find Me ? Well, I can be found in a few places, on Twitter, or on ArcoLinux Discord.
+I try my best to stay on as few Social Networks as possible since nowadays privacy is very important.. Anyway see y&amp;rsquo;all online. If you have any requests either Ping-me on Discord or Tweet at me, will try my best to reply back ;)
+~~~~~~~~~~~~~~~~~~~~</description>
+    </item>
+    
+  </channel>
+</rss>
