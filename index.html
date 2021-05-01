@@ -93,7 +93,8 @@
 </div>
 <!-- raw HTML omitted --></p>
 <h3 id="whats-this-">WHAT’S THIS ?</h3>
-<p>This is <strong>XeroLinux -</strong> an <em>Arch-based</em> Distro with <strong>KDE Plasma</strong> Desktop. Now I know not everyone likes my choice of DE, but that&rsquo;s what am into right now. Let me set expactations first, this is NOT a full-on Distro, it's just <em>ArchLinux</em> with <em>Vanilla KDE Plasma</em> nothing more. I just added <strong>BeautyLine</strong> as default icon pack, and moved panel to the top with <strong>LatteDock</strong> enabled by default. That's it. I did not mess with System Files.</p>
+<p>This is <strong>XeroLinux -</strong> an <em>Arch-based</em> Distro with <strong>KDE Plasma</strong> Desktop. Now I know not everyone likes my choice of DE, but that&rsquo;s my own preference.</p>
+<p>This is NOT a full-on Distro, it's just <em>ArchLinux</em> with <em>Vanilla KDE Plasma</em> nothing more. I just added <strong>BeautyLine</strong> as default icon pack, and moved panel to the top with <strong>LatteDock</strong> enabled by default. That's it.</p>
 <p><strong>XeroLinux -</strong> is unlike other Distros, it doesn't mess with any System Files, many other Distros heavily alter them, then they try to convince you that it's for better performance, which in itself introduces many points of failure. I leave the choice entirely up to the user. That being said this Distro was mainly for myself, but sharing is caring so it's online ;)</p>
 <p>Anyway, it was made possible by <a href="https://www.youtube.com/c/ErikDubois/videos" target="_blank"><strong>Erik Dubois</strong></a> and the array of information over at the <a href="https://www.arcolinux.info/" target="_blank"><strong>ArcoLinux</strong></a> site(s)… Not to mention the peeps over at <a href="https://endeavouros.com/" target="_blank"><strong>EndeavourOS</strong></a>.</p>	
 <p><strong>XeroLinux</strong> is based on a project by my good friend and Linux mentor <em>Erik Dubois</em> called <strong>ALCI</strong> or simply put <strong>A</strong>rch <strong>L</strong>inux <strong>C</strong>alamares <strong>I</strong>nstaller. Meaning it&rsquo;s an easier way to install <em>ArchLinux</em> using the <em>Calamares</em> Installer&hellip;</p>	
@@ -104,8 +105,8 @@
 <!-- raw HTML omitted --></p>
 <h3 id="how--why">How &amp; Why</h3>
 <p>A lot of sleepless nights and hair-pulling later, I was able to build my own Distro, my way. As the saying goes &ldquo;Necessity is Mother of all creations&rdquo;, that&rsquo;s where all this came from.</p>
-<p>This is just a P.O.C (Proof Of Concept), meaning it&rsquo;s an example that with perserverance and will-power, you can do it too. Just be weary that I have only been using Linux 8 months, so I am ill-suited to handle the troubleshooting others can with a team of devs behind them. For that, you will need to do your own troubleshooting via <strong>Google</strong> and the right communities like <strong>Discord</strong>, links in <strong>Social</strong> section.</p>
-<p>If you decide to test it, don&rsquo;t do it on your production machine, do it in a VM first, then, if you like it, go for it. I created Distro in such a way, that, all it takes is booting it, meaning you can just minimize Installer <em>(Don&rsquo;t Close It)</em>, play around to get an idea of what it will look n feel once installed. If you decide you like it, proceed to installer.</p>
+<p>This is just an exercise for me, meaning it&rsquo;s an example of what can be done. Just be weary that I have only been using Linux 8 months, so I am ill-suited to handle the troubleshooting others can with a team of devs behind them. For that, you will need to do your own troubleshooting via <strong>Google</strong> and the right communities like <strong>Discord</strong>, links in <strong>Social</strong> section.</p>
+<p>If you decide to test it, don&rsquo;t do it on your production machine, do it in a VM first, then, if you like it, go for it. A VM is just that "Virtual" so it doesn't reflect Bare Metal, it's just to see what Distro will look n feel like.</p>
 <p>Anyway, watch the above video to get a better idea of how It&rsquo;s built. For more info and installation guide head on to the &ldquo;Installation&rdquo; section&hellip;</p>
 			<p><center><strong>~~~~~~~~~~~~~~~~~~~~</strong></center></p>
 
@@ -145,11 +146,11 @@
 <p><strong>Very Important :</strong> Make sure to read each section&rsquo;s description, and note if you end up stuck with Desktop not loading, below under <strong>nVidia</strong> section you might get some clarification. Again, <strong>READ ENTIRE PAGE</strong> else I cannot help, and <strong>Google</strong> is your best friend...</p>
 <p>Kindly keep in mind that I opted to include <strong>PARU -</strong> the <strong>AUR -</strong> Helper in my Distro. I think it's better maintained, and more scalable as a Helper. You could install other Helpers if you so wish, but all Aliases - in my Distro use <strong>PARU -</strong>, so if you opt to use another one you will need to update them accordingly.</p>
 <p>Oh, and I also included the <strong>ArcoLinux Repositories</strong> for some extra packages. They have a good selection of apps and tweaks. But becareful not to install any "Desktop Configs" from there as they might mess things up. Always have a Backup before downloading, it's safest route to take.</p>					
-<p>During installation you will have the option to install many packages, which will be pulled from the Internet, so you will have to have an active Internet connection otherwise nothing will be installed.</p>
+<p>During installation you will have the option to install many packages, which will be pulled from the Internet, so you will have to have an active Internet connection otherwise nothing will show and you will see empty lists.</p>
 <p><center><strong>~~~~~~~~~~~~~~~~~~~~</strong></center></p>					
 <h3 id="package-list-explained">Package List Explained</h3>
 <p>The list is Dynamic so it will be constantly changing, meaning that if you install it today, and I add/change a few things installing it in the future will present you with a different list, much the same but with a few packages removed or added, I did it this way so I don&rsquo;t have to re-compile and re-upload ISO as I do not have enough bandwidth to spare, but for now I will try to explain below some of the sections below :</p>
-<p><strong>- Core :</strong> That&rsquo;e where you select your Kernel &amp; drivers. If you want latest Stock Kernel, or any other one check one you prefer. AMD/Intel/nVidia ? Select one you got. Just don&rsquo;t skip nVidia part below before going ahead to next section. Also know that you can 2 Kernels installed at the same time you will be prompther during Boot which to boot from ;)</p>
+<p><strong>- Core :</strong> This is the main section, where you select Kernel and GPU Drivers, be careful though, if you select wrong GPU drivers for your Hardware you might end up with the infamous "Black Screen" issue. <strong>Do Your Research Beforehand. It's ESSENTIAL..</strong></p>
 <p><strong>Note : Don&rsquo;t forget to select your Processor&rsquo;s Microcode, it&rsquo;s very important !</strong></p>
 <p><strong>- Apps :</strong> Here you can choose what apps you want out of the box. Many to select from. All very useful. I don&rsquo;t put useless stuff.</p>
 <p><strong>- Gaming :</strong> If you want games, here&rsquo;s where you select Launcher of choice with some &ldquo;Native&rdquo; games. Note if you select games it will make installation take much longer.</p>
@@ -161,22 +162,19 @@
 </figure>
 <!-- raw HTML omitted --></p>
 <h3 id="no-internet-connection-issue">No Internet Connection</h3>
-<p>Some users out there have reported an issue where <strong>Calamares</strong> installer was showing a message saying it&rsquo;s wasn&rsquo;t able to establish a connection to the Internet. In that case you can still go ahead with installation, only caveat with this is, you cannot install any of the packages in the list. So go ahead with installation, do not check any of the boxes as it will not work spitting an error.</p>
+<p>Some users out there have reported an issue where <strong>Calamares</strong> installer was showing a message saying it&rsquo;s wasn&rsquo;t able to establish a connection to the Internet. In that case you can still go ahead with installation, only caveat with this is, you cannot install any of the packages in the list. So go ahead with installation, do not check any of the boxes as it will not work spitting an error.</p>		
 <p><figure>
     <img src="https://i.imgur.com/30xICnR.png#center" width="100%"/> 
 </figure>
 <!-- raw HTML omitted --></p>
-<p>These are the steps, quit installer, then connect to net n hit F12 type in the command below, when Installer launches see if it still says no Internet. Or, reboot from ISO immediately quit installer n do as I said earlier.</p>
-<h4 id="command">Command</h4>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">calamares_polkit -d
-</code></pre></div><p>Not in my hands developer of installer hasn&rsquo;t fixed issue yet but he said it&rsquo;s coming. So we have to wait for that. Otherwise I have no idea why it happens or how to fix it beyond that&hellip; Will have to wait and see, till then install without selecting anything from list :(</p>					
+<p>I have no idea why it happens or how to fix it beyond that&hellip; Will have to wait and see, till then install without selecting anything from list :(</p>					
 <p><figure>
     <img src="https://i.imgur.com/KA4dy57.png#center" width="100%"/> 
 </figure>
 <!-- raw HTML omitted --></p>
 <h3 id="nvidia-issue">nVidia GPUs</h3>
-<p>Now it&rsquo;s a known fact that <strong>nVidia</strong> don&rsquo;t play well with Linux, so if you have an old Laptop/Desktop with an older GPU or even Hybrid Intel/nVidia requiring 390x Drivers, and you get stuck on <em>Black Screen Of Death</em>, then you will need to <strong>Google</strong> your way out of it as I do not have enough expertise on the subject.</p>
-<p>All I know is that you might need to try installing it without <strong>nVidia</strong> drivers, or with just the <strong>Intel</strong> ones. It&rsquo;s a Trial &amp; Error sort of deal. Just an FYI, selecting Microcode+Kernel without selecting any GPU Drivers especially on Hybrid setups could be the safest route, GPU drivers are there for those who need them, like 10 Series nVidia and newer... My Distro uses <strong>SDDM</strong> not <strong>LightDM</strong>, for compatibility. Best of luck on your journey ;)</p>
+<p>Now it&rsquo;s a known fact that <strong>nVidia</strong> don&rsquo;t play well with Linux, so if you have an old Laptop/Desktop with an older GPU or even Hybrid Intel/nVidia, and you get stuck on <em>Black Screen Of Death</em>, then you will need to <strong>Google</strong> your way out of it as I do not have enough expertise on the subject.</p>
+<p>I included all the Drivers I know of in the list, it's up to you <strong>Do Your Research</strong> Before attempting to install. As mentioned before, I am still in the early stages of my Linux adventure, so I am ill-equipped to help... Best of luck on your journey ;)</p>
 					<p><center><strong>~~~~~~~~~~~~~~~~~~~~</strong></center></p>
 
                                 </article>
