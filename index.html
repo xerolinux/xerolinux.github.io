@@ -101,7 +101,7 @@
 <p><center><h3><strong>~~~ Choices, choices, choices ~~~</strong></h3></center></p>	
 <p>Building a custom <strong>ArchLinux</strong> Distro is all about choices right ? My choices might not agree with yours, it's fine, each individual uses different apps and has a different config than others, so I had to make my choices, I just wish I could satisfy everyone, but we all know that it's impossible... So I hope choices I made are good enough. That said, here's what I chose :</p>
 <p>--> First off, I opted to use <strong>PARU -</strong> the <strong>AUR -</strong> Helper in my Distro. I think it's better maintained, and more scalable. You could install other Helpers if you so wish, but all Aliases - in my Distro use <strong>PARU -</strong>, so if you opt to use another one you will need to update them accordingly.</p>
-<p>--> I also chose to use the <strong>PipeWire Audio</strong> Drivers instead of <strong>Pulse Audio</strong>. I did that simply because they proved to be provide more compatibily especially when using 3rd party custom Kernels. If you encounter any issues, just simply remove them and replace them with <strong>Pulse Audio</strong>. As simple as that really.</p>				
+<p>--> I also chose to use the <strong>PipeWire Audio</strong> Drivers instead of <strong>Pulse Audio</strong>. I did that simply because they proved be more compatible, especially when using 3rd party custom Kernels. If you encounter any issues, just simply remove them and replace them with <strong>Pulse Audio</strong>. As simple as that really.</p>				
 <p>--> Finally I included the <strong>ArcoLinux Repositories</strong> for some extra packages. They have a good selection of apps and tweaks. Always have a Backup before downloading packages you know nothing about, it's safest route to take.</p>					
 <p>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
@@ -110,8 +110,7 @@
 <!-- raw HTML omitted --></p>
 <h3 id="how--why">How &amp; Why</h3>
 <p>A lot of sleepless nights and hair-pulling later, I was able to build my own Distro, my way. As the saying goes &ldquo;Necessity is Mother of all creations&rdquo;, that&rsquo;s where all this came from.</p>
-<p>This is just an exercise for me, meaning it&rsquo;s an example of what can be done. Just be weary that I have only been using Linux 8 months, so I am ill-suited to handle the troubleshooting others can with a team of devs behind them. For that, you will need to do your own troubleshooting via <strong>Google</strong> and the right communities like <strong>Discord</strong>, links in <strong>Social</strong> section.</p>		
-<p>If you decide to test it, don&rsquo;t do it on your production machine, do it in a VM first, then, if you like it, go for it. A VM is just that "Virtual" so it doesn't reflect Bare Metal, it's just to see what Distro will look n feel like.</p>
+<p>This is just an exercise for me, meaning it&rsquo;s an example of what can be done. Just be weary that I have only been using Linux 8 months, so I am ill-equipped to handle the troubleshooting others can with years of experience behind them. For that, I do apologize, you will need to do your own troubleshooting via <strong>Google</strong> and the right communities like <strong>Discord</strong>, links in <strong>Social</strong> section.</p>		
 <p>Anyway, watch the above video to get a better idea of how It&rsquo;s built. For more info and installation guide head on to the &ldquo;Installation&rdquo; section&hellip;</p>
 			<p><center><strong>~~~~~~~~~~~~~~~~~~~~</strong></center></p>
 
@@ -145,12 +144,14 @@
                                     <p><figure>
     <img src="https://i.imgur.com/mtk6gJo.png#center" width="100%"/> 
 </figure>
-<!-- raw HTML omitted --></p>
+<!-- raw HTML omitted --></p>					
 <h3 id="first-steps">First Steps</h3>
-<p>Now that we have established that this Distro was made for myslef primarily exercising my knowledge thus far, and that minimal support is available as I continue my endeavour to learn more as I go, learning is fun. Enjoy...</p>					
+<p>Now that we have established that this Distro was made for myslef primarily exercising my knowledge thus far, and that minimal support is available as I continue my endeavour to learn more as I go, learning is fun. Enjoy...</p>	
+<p><center><h3><strong>~~~ Things To Do Post-Install ~~~</strong></h3></center></p>					
 <p><strong>An Active Internet Connection Is Required</strong>, otherwise nothing will show and you will see empty lists.</p>
-<p>I added an <em>&ldquo;Alias&rdquo;</em> that needs to be run on first logon to fix a bug with GRUB - just run <strong>&ldquo;grubfix&rdquo;</strong> command in Terminal then reboot. There are tons of other aliases - type <strong>&ldquo;alias&rdquo;</strong> in Terminal to see them all.</p>
-<p><strong>Very Important :</strong> Make sure to <strong>READ ENTIRE PAGE</strong> before proceeding. What works for me might not work for you. If you are new to Linux or not ready to do a lot of research then <strong>DON'T GET MY DISTRO</strong></p>					
+<p>1- I added an <em>&ldquo;Alias&rdquo;</em> that needs to be run on first logon to fix a bug with GRUB - just run <strong>&ldquo;grubfix&rdquo;</strong> command in Terminal then reboot.</p>
+<p>2- I also added an <em>&ldquo;Alias&rdquo;</em> that can be run to install and configure <strong>SAMBA</strong>, should you need it. Just run <strong>&ldquo;smb&rdquo;</strong> command in Terminal, follow instructions, making sure username you select is the same as you current one, then reboot.</p> <p>There are tons of other aliases, to see them all, type <strong>&ldquo;alias&rdquo;</strong> in Terminal, or open the file <em>.bashrc</em> found in your home directory.</p>			
+<p>Finally, it's <strong>Very Important :</strong> Make sure to <strong>READ ENTIRE PAGE</strong> before proceeding. What works for me might not work for you. If you are new to Linux or not ready to do a lot of research then <strong>DON'T GET MY DISTRO</strong></p>					
 <p><center><strong>~~~~~~~~~~~~~~~~~~~~</strong></center></p>					
 <h3 id="package-list-explained">Package List Explained</h3>
 <p>The list is Dynamic so it will be constantly changing, meaning that if you install it today, and I add/change a few things installing it in the future will present you with a different list, much the same but with a few packages removed or added, I did it this way so I don&rsquo;t have to re-compile and re-upload ISO as I do not have enough bandwidth to spare, but for now I will try to explain below some of the sections below :</p>
