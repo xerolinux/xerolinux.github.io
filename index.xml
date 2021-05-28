@@ -16,36 +16,5 @@
 XeroLinux is based off of a project by my fellow Erik Dubois called ALCI or simply put Arch Linux Calamares Installer.</description>
     </item>
     
-    <item>
-      <title>Download</title>
-      <link>https://xerolinux.github.io/download/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://xerolinux.github.io/download/</guid>
-      <description>How To Get It Here&amp;rsquo;s where you can grab the ISO, but just letting you know that I won&amp;rsquo;t be releasing any new versions unles absolutely necessary, and major changes have taken place that require me to. I am Data-Capped so cannot afford the bandwidth.
-ISO was built with that in mind. Everything is pulled online nothing resides on ISO except Plasma DE and ArchLinux everything else is NetInstall&amp;hellip; That said grab your ISO below, hosted on Mega.</description>
-    </item>
-    
-    <item>
-      <title>Installation</title>
-      <link>https://xerolinux.github.io/howto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://xerolinux.github.io/howto/</guid>
-      <description>First Steps I added an &amp;ldquo;Alias&amp;rdquo; that needs to be ran on first logon to fix a bug with Grub, just run &amp;ldquo;grubfix&amp;rdquo; command in Terminal then reboot. There are tons of other aliases, type &amp;ldquo;alias&amp;rdquo; in Terminal to see them all.
-Very Importan : Make sure to read each section&amp;rsquo;s description, and note if you end up stuck with Desktop not loading, only means you have an older nVidia GPU and you selected nVidia driver ignoring warning in the installer.</description>
-    </item>
-    
-    <item>
-      <title>Discord Server</title>
-      <link>https://xerolinux.github.io/discord/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://xerolinux.github.io/discord/</guid>
-      <description>Where Can You Find Me ? Well, I can be found in a few places, on Twitter, or on ArcoLinux Discord.
-I try my best to stay on as few Social Networks as possible since nowadays privacy is very important.. Anyway see y&amp;rsquo;all online. If you have any requests either Ping-me on Discord or Tweet at me, will try my best to reply back ;)
-~~~~~~~~~~~~~~~~~~~~</description>
-    </item>
-    
   </channel>
 </rss>
