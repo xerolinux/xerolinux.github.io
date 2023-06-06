@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04fe2ad4.css",
+    "main.js": "/static/js/main.83e17fca.js",
+    "static/media/laptop.avif": "/static/media/laptop.37fa84a71a3429f93a8a.avif",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "index.html": "/index.html",
+    "static/media/darkbg.png": "/static/media/darkbg.a960f1624fb0f01756aa.png",
+    "static/media/help.png": "/static/media/help.b5228c9141b357a9c5d2.png",
+    "static/media/herobg.avif": "/static/media/herobg.6f4a8c759e7906827ae0.avif",
+    "static/media/logo.svg": "/static/media/logo.be15eace0a9cd4b33a72e4ab9e40b979.svg",
+    "static/media/gift.png": "/static/media/gift.cf0b2fa835009c2433fd.png",
+    "static/media/XeroXFCE.svg": "/static/media/XeroXFCE.5c9c626da481e9a69a6e30d8650fb819.svg",
+    "static/media/XeroG.svg": "/static/media/XeroG.561088c60113ace3ede590ce9ba705ad.svg",
+    "static/media/leb.svg": "/static/media/leb.b2d8a33c51db9a183b2d1bad06ece402.svg",
+    "static/media/darkbg.avif": "/static/media/darkbg.54eee233866ff87d6050.avif",
+    "static/media/TreasureContent.md": "/static/media/TreasureContent.f26e371eb542ccfedabd.md",
+    "static/media/UserAgreementContent.md": "/static/media/UserAgreementContent.c87ea282a12fe4d337e9.md",
+    "static/media/eye.svg": "/static/media/eye.fccf29809a2c63693d08f54eb71358f0.svg",
+    "static/media/ChangelogContent.md": "/static/media/ChangelogContent.7a89f73546d1ee8de44f.md",
+    "static/media/SpinsOutro.md": "/static/media/SpinsOutro.950ca6b8ecc3159de255.md",
+    "static/media/SpinsIntro.md": "/static/media/SpinsIntro.999ea51aaec9f8e8c264.md",
+    "static/media/AnnouncementsContent.md": "/static/media/AnnouncementsContent.15bf5c7aa667345b7a25.md",
+    "main.04fe2ad4.css.map": "/static/css/main.04fe2ad4.css.map",
+    "main.83e17fca.js.map": "/static/js/main.83e17fca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04fe2ad4.css",
+    "static/js/main.83e17fca.js"
+  ]
+}
