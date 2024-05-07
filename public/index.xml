@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>XeroLinux H.Q on </title>
+    <link>https://xerolinux.xyz/</link>
+    <description>Recent content in XeroLinux H.Q on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://xerolinux.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://xerolinux.xyz/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xerolinux.xyz/about/</guid>
+      <description>Description XeroLinux whilst no longer a Distro, it&amp;rsquo;s now more a collection of Projects/Scripts, created with a simple goal in mind, making ArchLinux easier to install and configure.&#xA;So far, project includes, the Ultimate Arch Post-Install Toolkit, a simple KDE Plasma installer script and finally a script that will make it easy to apply my Xero-Layan rice.&#xA;Check other pages out on the site for more information. And feel free to let me know what you think of the new site design.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://xerolinux.xyz/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xerolinux.xyz/projects/</guid>
+      <description>The Toolkit. This toolkit aims to be an all-in-one solution for post-installation, expediting your Arch setup. It&amp;rsquo;s offered as use at your own risk type of thing, with minimal support. You will have to rely on yourself and your own knowledge and ability to do research when it comes to the provided tools and your setup.&#xA;It&amp;rsquo;s crucial to clarify that this toolkit is NOT intended for custom Arch-Based distros. While some elements might function, I can&amp;rsquo;t ensure seamless compatibility due to potential conflicts arising from differing tweaks and repositories.</description>
+    </item>
+    <item>
+      <title>Socials</title>
+      <link>https://xerolinux.xyz/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xerolinux.xyz/contact/</guid>
+      <description>How To Contact me. There are many ways to contact me. Just make sure to select the right method. I will answer you as fast as I can, all i ask for is a little bit of patience. I will try my best to answer. If I don&amp;rsquo;t, it just means I am either too busy or power is out as it usually is here in Lebanon. ;)&#xA;Linux Related Ok, so, if you want to ask questions related to Linux, you can do so by either joining the XeroLinux Forum or via the Mastodon instance.</description>
+    </item>
+    <item>
+      <title>System</title>
+      <link>https://xerolinux.xyz/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xerolinux.xyz/tech/</guid>
+      <description>Below are the specs of my main Rig, the one I use to test &amp;amp; build XeroLinux. Also the one I game on and much much more. I have 4 other rigs which are not as important lol.</description>
+    </item>
+  </channel>
+</rss>

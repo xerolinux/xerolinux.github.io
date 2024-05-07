@@ -1,4 +1,15 @@
-XeroLinux Initial GitHub Page !
-===============================
+# XeroLinux.xyz Site Files
 
-This is the **XeroLinux** hub. Everything connected to this page, from repo to home page. Do not clone or duplicate !
+![Shot](https://i.imgur.com/UnTiBad.png)
+
+**- Install Hugo :**
+```Bash
+sudo pacman -S hugo
+yay -S gohugo-extended-bin
+```
+
+**- Commands to Preview n Build :**
+```Bash
+hugo server
+hugo
+```

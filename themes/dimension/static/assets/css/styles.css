@@ -1,0 +1,16 @@
+/* styles.css */
+
+/* Center the image container */
+.center-image {
+    text-align: center; /* Center-align container */
+}
+
+/* Make images within the container responsive and centered */
+.center-image img {
+    display: block; /* Set image to display as a block element */
+    max-width: 5%; /* Ensure image doesn't exceed its container */
+    height: auto; /* Maintain aspect ratio */
+    margin-left: auto;
+    margin-right: auto;
+}
+

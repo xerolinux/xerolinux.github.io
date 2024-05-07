@@ -1,0 +1,3 @@
+baseURL = 'https://xerolinux.xyz/'
+languageCode = 'en-us'
+theme = "dimension"
