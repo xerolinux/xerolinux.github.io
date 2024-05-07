@@ -18,12 +18,12 @@ Well, I dunno how to describe this besides that it's the best **KDE** rice I hav
 
 {{< figure src="https://i.imgur.com/VA2tycb.jpeg" alt="specs" class="center-image" >}}<br />
 
-Until then, if you want to enjoy said rice on your system, feel free to teleport to [**Github**](https://github.com/xerolinux/xero-layan-git) to see how you can do that... And have fun.
+Until then, if you want to enjoy said rice on your system, feel free to teleport to [**Github**](https://github.com/xerolinux/xero-layan-git) to see how you can do that. And have fun. 😀
 
 ### Xero-Plasma Install Script
 
-Hmm... With the help of this script you will be able to install **Plasma** in one of 4 methods as you can see in the image below. Not only that, it will also install the nVidia-dkms drivers and do necessary steps to get things working without you having to lift a finger... Oh yeah it will also fix **PipeWire** and **Bluetooth**..
+Hmm... With the help of this script you will be able to install **Plasma** in one of 4 methods as you can see in the image below. Not only that, it will also install the nVidia-dkms drivers and do necessary steps to get things working without you having to lift a finger. Oh yeah it will also fix **PipeWire** and **Bluetooth**.
 
 {{< figure src="https://i.imgur.com/DJjpFG8.png" alt="Tech" class="center-image" >}}<br />
 
-But please keep in mind that script is only intended for *Desktops* that have a single GPU _(nVidia or Intel)_. Yes, I am sorry about not being able to support hardware I do not own lol.. However script will evolve as I get new hardware in. So for now feel free to teleport to [**Github**](https://github.com/xerolinux/xero-plasma) to see how use this script... And let me know what you think.
+But please keep in mind that script is only intended for *Desktops* that have a single GPU _(nVidia or Intel)_. Yes, I am sorry about not being able to support hardware I do not own lol.. However script will evolve as I get new hardware in. So for now feel free to teleport to [**Github**](https://github.com/xerolinux/xero-plasma) to see how use this script. And let me know what you think.
