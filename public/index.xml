@@ -8,28 +8,28 @@
     <language>en-us</language>
     <atom:link href="https://xerolinux.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
+      <title>About Us</title>
       <link>https://xerolinux.xyz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://xerolinux.xyz/about/</guid>
       <description>Description With XeroLinux no longer being a Distro, but a collection of Projects/Scripts, created with a simple goal in mind, making ArchLinux easier to install and configure.&#xA;However, if you really want the Distro to make a triumphant comeback, as many of you have been requesting, I have listened. But before it does, I have written a post about what it will take for me to make it happen, and how it will be shared.</description>
     </item>
     <item>
-      <title>Projects</title>
+      <title>Project</title>
       <link>https://xerolinux.xyz/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://xerolinux.xyz/projects/</guid>
-      <description>The Toolkit. This toolkit aims to be an all-in-one solution for post-installation, expediting your Arch setup. It&amp;rsquo;s offered as use at your own risk type of thing, with minimal support. You will have to rely on yourself and your own knowledge and ability to do research when it comes to the provided tools and your setup.&#xA;It&amp;rsquo;s crucial to clarify that this toolkit is NOT intended for custom Arch-Based distros. While some elements might function, I can&amp;rsquo;t ensure seamless compatibility due to potential conflicts arising from differing tweaks and repositories.</description>
+      <description>Some Info The project is made of a few sub-projects. Below you will find the 3 I have finished and are ready for public consumption. More are on the way. Just keep coming back here for updates. Also feel free to suggest ideas on social&amp;hellip;&#xA;The Toolkit. This toolkit aims to be an all-in-one solution for post-installation, expediting your Arch setup. It&amp;rsquo;s offered as use at your own risk type of thing, with minimal support.</description>
     </item>
     <item>
-      <title>Socials</title>
+      <title>Queries</title>
       <link>https://xerolinux.xyz/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://xerolinux.xyz/contact/</guid>
       <description>Social Media Ok, so, if you want to ask me questions about my projects directly, you can do so by either joining the XeroLinux Forum or via the Mastodon instance.&#xA;Although I also have a Discord Server set up, it&amp;rsquo;s currently not very active. it&amp;rsquo;s sorta private, hence its name. It&amp;rsquo;s not set up to provide support for any of my projects, it&amp;rsquo;s just there for us to discuss everything from life to Open Source and other stuff.</description>
     </item>
     <item>
-      <title>System</title>
+      <title>Workshop</title>
       <link>https://xerolinux.xyz/tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://xerolinux.xyz/tech/</guid>

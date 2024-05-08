@@ -1,6 +1,10 @@
 ---
-title: Projects
+title: Project
 ---
+
+### Some Info
+
+The project is made of a few sub-projects. Below you will find the 3 I have finished and are ready for public consumption. More are on the way. Just keep coming back here for updates. Also feel free to suggest ideas on social...
 
 ### The Toolkit.
 

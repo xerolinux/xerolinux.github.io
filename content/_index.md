@@ -1,6 +1,6 @@
 ---
 title: XeroLinux H.Q
-description: Home To Our Various Projects
+description: Our Project Hub
 background: "images/bg.webp"
 logo: "images/logo.png"
 ---

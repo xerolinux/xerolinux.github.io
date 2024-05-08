@@ -1,5 +1,5 @@
 ---
-title: System
+title: Workshop
 ---
 {{< figure src="https://i.imgur.com/9WxOnPh.jpeg" alt="specs" class="center-image" >}}<br />
 

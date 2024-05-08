@@ -1,5 +1,5 @@
 ---
-title: Socials
+title: Queries
 ---
 
 ### Social Media
