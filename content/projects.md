@@ -2,7 +2,7 @@
 title: Projects
 ---
 
-#### The Toolkit.
+### The Toolkit.
 
 This toolkit aims to be an _all-in-one_ solution for post-installation, expediting your Arch setup. It's offered as use at your own risk type of thing, with minimal support. You will have to rely on yourself and your own knowledge and ability to do research when it comes to the provided tools and your setup.
 

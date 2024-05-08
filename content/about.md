@@ -2,11 +2,15 @@
 title: About
 ---
 
-## Description
+### Description
 
 With **XeroLinux** no longer being a Distro, but a collection of _Projects/Scripts_, created with a simple goal in mind, making [**ArchLinux**](https://archlinux.org) easier to install and configure.
 
+However, if you really want the Distro to make a triumphant comeback, as many of you have been requesting, I have listened. But before it does, I have written a post about what it will take for me to make it happen, and how it will be shared. You can check it here on [**Ko-Fi**](https://ko-fi.com/post/Some-Great-News-Coming-L4L8XLJBN). The sooner we reach the goal the sooner you will be getting it !
+
 {{< youtube 78yBSXpyVRs >}}<br />
+
+### ArchLinux / KDE Plasma
 
 I have so many great ideas in the pipeline, it's crazy ! I love working with **ArchLinux**. It's the most flexible Distro I have ever had the pleasure to work with. Allowing me to build things from the ground up without it being too complex, or getting in my way.
 
