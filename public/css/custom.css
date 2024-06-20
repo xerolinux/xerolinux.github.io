@@ -17,3 +17,28 @@
     margin-right: auto;
 }
 
+/* static/css/custom.css */
+body {
+    font-size: 32px; /* Adjust the font size as needed */
+    line-height: 1.6; /* Adjust line height for better readability */
+}
+
+h1 {
+    font-size: 2em; /* Adjust heading sizes as needed */
+}
+
+h2 {
+    font-size: 1.75em; /* Adjust heading sizes as needed */
+}
+
+h3 {
+    font-size: 1.5em; /* Adjust heading sizes as needed */
+}
+
+p {
+    font-size: 1.1em; /* Adjust paragraph size if needed */
+}
+
+/* Add other selectors as needed for your site's content */
+
+

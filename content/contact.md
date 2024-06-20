@@ -28,7 +28,7 @@ Maybe we can do something together. Combine ideas to come up with something usef
 
 ### Support Me / My Cause
 
-In case you weren't aware of the current situation in **Lebanon**, let me put it this way, it's bad, real bad. As a result I currently have no choice but to rely on you, my dear fans, at least until situation improves. Without your support none of this would have been possible. I thank every one of you who have pleged a few pennies here n there.
+If you want to see our projects thrive and continue, please do consider supporting them. Without your support none of this would have been possible. I thank every one of you who have pleged a few pennies here n there.
 
 {{< figure src="https://i.imgur.com/coqI5QA.png" alt="Support" class="center-image" >}} <br />
 
