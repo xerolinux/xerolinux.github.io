@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://xerolinux.xyz/about/</loc>
-  </url><url>
     <loc>https://xerolinux.xyz/categories/</loc>
+  </url><url>
+    <loc>https://xerolinux.xyz/about/</loc>
   </url><url>
     <loc>https://xerolinux.xyz/projects/</loc>
   </url><url>
     <loc>https://xerolinux.xyz/contact/</loc>
   </url><url>
-    <loc>https://xerolinux.xyz/tags/</loc>
+    <loc>https://xerolinux.xyz/support/</loc>
   </url><url>
-    <loc>https://xerolinux.xyz/tech/</loc>
+    <loc>https://xerolinux.xyz/tags/</loc>
   </url><url>
     <loc>https://xerolinux.xyz/</loc>
   </url>

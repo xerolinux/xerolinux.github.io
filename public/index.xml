@@ -8,7 +8,7 @@
     <language>en-us</language>
     <atom:link href="https://xerolinux.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Us</title>
+      <title>Profile</title>
       <link>https://xerolinux.xyz/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://xerolinux.xyz/about/</guid>
@@ -19,21 +19,21 @@
       <link>https://xerolinux.xyz/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://xerolinux.xyz/projects/</guid>
-      <description>Some Info The project is made of a few sub-projects. Below you will find the 3 I have finished and are ready for public consumption. More are on the way. Just keep coming back here for updates. Also feel free to suggest ideas on social&amp;hellip;&#xA;The Toolkit. This toolkit aims to be an all-in-one solution for post-installation, expediting your Arch setup. It&amp;rsquo;s offered as use at your own risk type of thing, with minimal support.</description>
+      <description>The Toolkit. This toolkit aims to be an all-in-one solution for post-installation, expediting your Arch setup. Please head on over to toolkit&amp;rsquo;s Github Page and check out the Wiki for more detailed information.&#xA;Xero-Layan Rice It&amp;rsquo;s the best KDE rice I have ever created, in my opinion. If you want to enjoy said rice on your system, feel free to teleport to Github and have fun. 😀&#xA;Xero-Plasma Install Script With the help of this script you will be able to install Plasma in one of 4 methods as you can see in the image below.</description>
     </item>
     <item>
-      <title>Queries</title>
+      <title>Socials</title>
       <link>https://xerolinux.xyz/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://xerolinux.xyz/contact/</guid>
-      <description>Social Media Ok, so, if you want to ask me questions about my projects directly, you can do so by either joining the XeroLinux Forum or via the Mastodon instance.&#xA;Although I also have a Discord Server set up, it&amp;rsquo;s currently not very active. it&amp;rsquo;s sorta private, hence its name. It&amp;rsquo;s not set up to provide support for any of my projects, it&amp;rsquo;s just there for us to discuss everything from life to Open Source and other stuff.</description>
+      <description>Social Media Ok, so, if you want to ask me questions about my projects directly, you can do so by either joining the XeroLinux Forum or via the Mastodon instance. I will also mention that I have a Discord Server set up, if you feel like joining it, please do.&#xA;YouTube Project also has a YouTube Channel where I try my best to put out a new video every week on Wednesday, talking about ArchLinux and various ways I work on it.</description>
     </item>
     <item>
-      <title>Workshop</title>
-      <link>https://xerolinux.xyz/tech/</link>
+      <title>Support</title>
+      <link>https://xerolinux.xyz/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://xerolinux.xyz/tech/</guid>
-      <description>Below are the specs of my main Rig, the one I use to test &amp;amp; build XeroLinux. Also the one I game on and much much more.&#xA;I also have a DELL XPS 13 / 9360 Laptop that has a stupid 4K Touch Screen, Intel Core i7-7500U, 16GB RAM, and an Intel HD Graphics 620 iGPU. I primarily use it for testing stuff. From various Distros to various Kernels. It&amp;rsquo;s starting to show its age right about now lol.</description>
+      <guid>https://xerolinux.xyz/support/</guid>
+      <description>Support Me / My Cause If you want to see our projects thrive and continue, please do consider supporting them. Without your support none of this would have been possible. I thank every one of you who have pleged a few pennies here n there.&#xA;So, if you want to support me financially, there are 2 ways to do so currently. You can either do it via Ko-Fi or by becoming a Github-Sponsor</description>
     </item>
   </channel>
 </rss>
